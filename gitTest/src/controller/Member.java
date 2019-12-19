@@ -6,6 +6,6 @@ public class Member {
 		System.out.println("##여기는 doTest.java");
 		System.out.println("##여기는 doTest.java");
 		System.out.println("##여기는 doTest.java");
-		//dddddd
+		//ddddddtesttest
 	}
 }
