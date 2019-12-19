@@ -1,2 +1,2 @@
 # gitTest
-git 사용법 테스트
+git 사용법 test
